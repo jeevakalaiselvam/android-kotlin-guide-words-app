@@ -1,6 +1,6 @@
 # Words App
 
-This is a simple Android application demonstrating Intents and Menu Options.
+This is a simple Android application demonstrating Activities, Intents and Menu Options.
 
 # Screenshots
 
