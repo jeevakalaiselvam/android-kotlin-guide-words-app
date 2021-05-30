@@ -21,10 +21,10 @@ plugins {
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.2"
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.wordsapp"
+        applicationId "com.gamerguide.android.wordsapp"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
